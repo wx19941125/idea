@@ -14,5 +14,10 @@
   
 ### Idea部署原生Web项目
  
-  centos压缩与解压命令、centos打包与解包命令;
+  第一步，导入svn项目。
   
+  第二步，idea配置java环境。
+  
+  第三步，idea配置web项目并打包成war。
+  
+  第四步，ideda配置嵌入式的tomcat，并进行启动。
